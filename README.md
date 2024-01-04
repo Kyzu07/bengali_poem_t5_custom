@@ -36,6 +36,6 @@ These preprocessing steps contribute to the generation of coherent and stylistic
 
 ## Generated Poems
 
-Explore the beauty of generated poems inspired by Kazi Nazrul Islam in the [**Samples**](./sample) directory.
+Explore the beauty of generated poems inspired by Kazi Nazrul Islam in the [**sample**](./sample) directory.
 
 
